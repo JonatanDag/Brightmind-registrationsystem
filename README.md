@@ -20,13 +20,6 @@ A modern PHP + MySQL student registration and admin management system.
 4. Upload to any PHP host (InfinityFree, Laragon, XAMPP, etc.)
 5. Visit `index.php` — the database table is created automatically
 
-## Default Admin Login
-
-- **Username:** admin
-- **Password:** admin123
-
-> Change the password in `config.php` after first login.
-
 ## Tech Stack
 
 - PHP 8+
